@@ -3,4 +3,5 @@
 *bara prufa
 
 -sjá hvernig virkar
-	-gera skýrslu
+-gera skýrslu
+ -tests
